@@ -28,7 +28,7 @@ IP → Location(city, lat?, lon?)
 ## Установка
 
 ```bash
-git clone git@github.com:<your-username>/weather-etl.git
+git clone git@github.com:3xxx0rc1st/weather-etl.git
 cd weather-etl
 python -m venv .venv
 source .venv/bin/activate     # Windows: .venv\Scripts\activate
